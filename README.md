@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/svagish/algorithms/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/svagish/algorithms/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/svagish/algorithms/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [3950-maximum-k-to-sort-a-permutation](https://github.com/svagish/algorithms/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/svagish/algorithms/tree/master/4184-minimum-operations-to-sort-a-permutation) |
 | [4257-sum-of-sortable-integers](https://github.com/svagish/algorithms/tree/master/4257-sum-of-sortable-integers) |
 ## Hash Table
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4220-minimum-operations-to-sort-a-string](https://github.com/svagish/algorithms/tree/master/4220-minimum-operations-to-sort-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3950-maximum-k-to-sort-a-permutation](https://github.com/svagish/algorithms/tree/master/3950-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
