@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/svagish/algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/svagish/algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/svagish/algorithms/tree/master/0307-range-sum-query-mutable) |
+| [1380-number-of-closed-islands](https://github.com/svagish/algorithms/tree/master/1380-number-of-closed-islands) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/svagish/algorithms/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/svagish/algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/svagish/algorithms/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1380-number-of-closed-islands](https://github.com/svagish/algorithms/tree/master/1380-number-of-closed-islands) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/svagish/algorithms/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -114,4 +116,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/svagish/algorithms/tree/master/3950-maximum-k-to-sort-a-permutation) |
+## Depth-First Search
+|  |
+| ------- |
+| [1380-number-of-closed-islands](https://github.com/svagish/algorithms/tree/master/1380-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1380-number-of-closed-islands](https://github.com/svagish/algorithms/tree/master/1380-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1380-number-of-closed-islands](https://github.com/svagish/algorithms/tree/master/1380-number-of-closed-islands) |
 <!---LeetCode Topics End-->
