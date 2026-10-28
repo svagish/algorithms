@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/svagish/algorithms/tree/master/0064-minimum-path-sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/svagish/algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/svagish/algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/svagish/algorithms/tree/master/0307-range-sum-query-mutable) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/svagish/algorithms/tree/master/0064-minimum-path-sum) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/svagish/algorithms/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Tree
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/svagish/algorithms/tree/master/0064-minimum-path-sum) |
 | [1380-number-of-closed-islands](https://github.com/svagish/algorithms/tree/master/1380-number-of-closed-islands) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/svagish/algorithms/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
