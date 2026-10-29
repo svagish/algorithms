@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/svagish/algorithms/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/svagish/algorithms/tree/master/4184-minimum-operations-to-sort-a-permutation) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/svagish/algorithms/tree/master/4205-minimum-xor-path-in-a-grid) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/svagish/algorithms/tree/master/4209-palindromic-path-queries-in-a-tree) |
 | [4257-sum-of-sortable-integers](https://github.com/svagish/algorithms/tree/master/4257-sum-of-sortable-integers) |
 ## Hash Table
 |  |
@@ -42,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/svagish/algorithms/tree/master/0307-range-sum-query-mutable) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/svagish/algorithms/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/svagish/algorithms/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/svagish/algorithms/tree/master/0307-range-sum-query-mutable) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/svagish/algorithms/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/svagish/algorithms/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Design
 |  |
 | ------- |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/svagish/algorithms/tree/master/0307-range-sum-query-mutable) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/svagish/algorithms/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/svagish/algorithms/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Sqrt Decomposition
 |  |
 | ------- |
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/svagish/algorithms/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/svagish/algorithms/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -117,17 +122,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2496-count-days-spent-together](https://github.com/svagish/algorithms/tree/master/2496-count-days-spent-together) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/svagish/algorithms/tree/master/4209-palindromic-path-queries-in-a-tree) |
 | [4220-minimum-operations-to-sort-a-string](https://github.com/svagish/algorithms/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/svagish/algorithms/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/svagish/algorithms/tree/master/4205-minimum-xor-path-in-a-grid) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/svagish/algorithms/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1380-number-of-closed-islands](https://github.com/svagish/algorithms/tree/master/1380-number-of-closed-islands) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/svagish/algorithms/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/svagish/algorithms/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
