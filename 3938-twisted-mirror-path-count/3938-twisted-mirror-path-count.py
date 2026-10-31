@@ -19,14 +19,14 @@ class Solution:
             count = 0
             if (grid[i][j] == 1):
                 if (p == 0):
-                    count = (count % MOD + dfs(i, j+1, 1) % MOD) % MOD
+                    count = dfs(i, j+1, 1)
                 else: 
-                    count = (count % MOD + dfs(i+1, j, 0) % MOD) % MOD 
+                    count = dfs(i+1, j, 0) 
             else:
-                count = (count % MOD +  dfs(i+1, j, 0) % MOD) % MOD
-                count = (count % MOD + dfs(i, j+1, 1) % MOD) % MOD
+                count = (count + dfs(i+1, j, 0)) % MOD
+                count = (count + dfs(i, j+1, 1)) % MOD
 
             dp[i][j][p] = count
             return count
 
-        return dfs(0, 0, -1)
+        return dfs(0, 0, 0)
