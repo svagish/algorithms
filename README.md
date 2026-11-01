@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/svagish/algorithms/tree/master/0064-minimum-path-sum) |
+| [0130-surrounded-regions](https://github.com/svagish/algorithms/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/svagish/algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/svagish/algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/svagish/algorithms/tree/master/0307-range-sum-query-mutable) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/svagish/algorithms/tree/master/0130-surrounded-regions) |
 | [1380-number-of-closed-islands](https://github.com/svagish/algorithms/tree/master/1380-number-of-closed-islands) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/svagish/algorithms/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/svagish/algorithms/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -136,18 +138,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/svagish/algorithms/tree/master/0130-surrounded-regions) |
 | [1380-number-of-closed-islands](https://github.com/svagish/algorithms/tree/master/1380-number-of-closed-islands) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/svagish/algorithms/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [4209-palindromic-path-queries-in-a-tree](https://github.com/svagish/algorithms/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/svagish/algorithms/tree/master/0130-surrounded-regions) |
 | [1380-number-of-closed-islands](https://github.com/svagish/algorithms/tree/master/1380-number-of-closed-islands) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/svagish/algorithms/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/svagish/algorithms/tree/master/0064-minimum-path-sum) |
+| [0130-surrounded-regions](https://github.com/svagish/algorithms/tree/master/0130-surrounded-regions) |
 | [1380-number-of-closed-islands](https://github.com/svagish/algorithms/tree/master/1380-number-of-closed-islands) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/svagish/algorithms/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3938-twisted-mirror-path-count](https://github.com/svagish/algorithms/tree/master/3938-twisted-mirror-path-count) |
