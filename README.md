@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/svagish/algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/svagish/algorithms/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2496-count-days-spent-together](https://github.com/svagish/algorithms/tree/master/2496-count-days-spent-together) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/svagish/algorithms/tree/master/4084-maximize-sum-of-squares-of-digits) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/svagish/algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/svagish/algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/svagish/algorithms/tree/master/0307-range-sum-query-mutable) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/svagish/algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1380-number-of-closed-islands](https://github.com/svagish/algorithms/tree/master/1380-number-of-closed-islands) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/svagish/algorithms/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/svagish/algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
