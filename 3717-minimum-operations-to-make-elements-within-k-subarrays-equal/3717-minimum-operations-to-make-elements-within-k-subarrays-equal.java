@@ -1,10 +1,8 @@
 class Solution {
-    long INF = Long.MAX_VALUE / 4;
-
-    public long[] costSlidingWindow(int[] nums, int k) {      
+    public long[] costSlidingWindow(int[] nums, int k) {
         TreeMap<Integer, Integer> left = new TreeMap<>();
         TreeMap<Integer, Integer> right = new TreeMap<>();
-
+        
         int leftCount = 0;
         int rightCount = 0;
 
@@ -13,8 +11,8 @@ class Solution {
 
         int i = 0;
         int n = nums.length;
-        long[] ans = new long[n - k + 1];                     
-
+        long[] ans = new long[n-k+1];
+        
         for (int j = 0; j < n; j++) {
             int ele = nums[j];
 
@@ -22,77 +20,87 @@ class Solution {
                 left.put(ele, left.getOrDefault(ele, 0) + 1);
                 leftCount++;
                 leftSum += ele;
-            } else {
+            }
+            else {
                 right.put(ele, right.getOrDefault(ele, 0) + 1);
                 rightCount++;
                 rightSum += ele;
             }
 
             Map.Entry<Integer, Integer> leftEntry = left.lastEntry();
-            Map.Entry<Integer, Integer> rightEntry = right.firstEntry();
-
+            Map.Entry<Integer, Integer> rightEntry = right.firstEntry(); 
+            
+            // balancing
             if (leftEntry != null && rightEntry != null) {
                 int leftMax = leftEntry.getKey();
                 int rightMin = rightEntry.getKey();
 
-                if (leftMax > rightMin || leftCount < rightCount) { 
+                // left max > right min, swap
+                if (leftMax > rightMin || leftCount < rightCount) {
+                    // remove leftMax from left
                     if (leftEntry.getValue() == 1) left.remove(leftMax);
-                    else left.put(leftMax, leftEntry.getValue() - 1);
+                    else left.put(leftMax, leftEntry.getValue()-1);
                     leftSum -= leftMax;
 
+                    // remove rightMin from right
                     if (rightEntry.getValue() == 1) right.remove(rightMin);
-                    else right.put(rightMin, rightEntry.getValue() - 1);
+                    else right.put(rightMin, rightEntry.getValue()-1);
                     rightSum -= rightMin;
-
-                    left.put(rightMin, left.getOrDefault(rightMin, 0) + 1);
+                    
+                    // add rightMin in left
+                    left.put(rightMin, left.getOrDefault(rightMin, 0) + 1); 
                     leftSum += rightMin;
-
+                    
+                    // add leftMax in right
                     right.put(leftMax, right.getOrDefault(leftMax, 0) + 1);
                     rightSum += leftMax;
                 }
+
             }
 
-            if (j - i + 1 == k) {
-                int median = left.lastKey();                  
-                ans[i] = ((long) median * leftCount - leftSum)        
-                       + (rightSum - (long) median * rightCount);
+            // reduce window size
+            if (j-i+1 == k) {
+                int median = (((k & 1) == 0) ? (left.lastKey() + right.firstKey())/2 : left.lastKey());
+                ans[i] = ((long)median*(long)leftCount - leftSum) + (rightSum - (long)median*(long)rightCount);
 
-                if (left.containsKey(nums[i])) {
+                if(left.containsKey(nums[i])) {
                     int freq = left.get(nums[i]);
                     if (freq == 1) left.remove(nums[i]);
-                    else left.put(nums[i], freq - 1);
+                    else left.put(nums[i], freq-1); 
                     leftCount--;
                     leftSum -= nums[i];
-                } else {
+                }
+                else {
                     int freq = right.get(nums[i]);
                     if (freq == 1) right.remove(nums[i]);
-                    else right.put(nums[i], freq - 1);
+                    else right.put(nums[i], freq-1);
                     rightCount--;
                     rightSum -= nums[i];
                 }
                 i++;
             }
         }
+
         return ans;
     }
 
-    public long rec(int i, int k, int x, long[] cost, long[][] memo) {
+    public long rec(long[] cost, Long[][] dp, int i, int x, int k) {
         if (k == 0) return 0;
-        if (i >= cost.length) return INF;
-        if (memo[i][k] != -1) return memo[i][k];
+        if (i >= cost.length) return Long.MAX_VALUE;
 
-        long skip = rec(i + 1, k, x, cost, memo);             
-        long pick = rec(i + x, k - 1, x, cost, memo);         
-        if (pick != INF) pick += cost[i];
+        if (dp[i][k] != null) return dp[i][k];
 
-        return memo[i][k] = Math.min(skip, pick);
+        long pick = rec(cost, dp, i+x, x, k-1);
+        long skip = rec(cost, dp, i+1, x, k);
+        if (pick != Long.MAX_VALUE) pick += cost[i];
+
+        return dp[i][k] = Math.min(pick, skip);
     }
 
     public long minOperations(int[] nums, int x, int k) {
+        int n = nums.length;
         long[] cost = costSlidingWindow(nums, x);
-        long[][] memo = new long[cost.length][k + 1];
-        for (long[] row : memo) Arrays.fill(row, -1);
-
-        return rec(0, k, x, cost, memo);
+        Long[][] dp = new Long[cost.length][k+1];
+        return rec(cost, dp,  0, x, k);
     }
 }
