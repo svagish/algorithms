@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/svagish/algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/svagish/algorithms/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2496-count-days-spent-together](https://github.com/svagish/algorithms/tree/master/2496-count-days-spent-together) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/svagish/algorithms/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/svagish/algorithms/tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/svagish/algorithms/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4257-sum-of-sortable-integers](https://github.com/svagish/algorithms/tree/master/4257-sum-of-sortable-integers) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/svagish/algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/svagish/algorithms/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/svagish/algorithms/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/svagish/algorithms/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/svagish/algorithms/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/svagish/algorithms/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3938-twisted-mirror-path-count](https://github.com/svagish/algorithms/tree/master/3938-twisted-mirror-path-count) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0480-sliding-window-median](https://github.com/svagish/algorithms/tree/master/0480-sliding-window-median) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/svagish/algorithms/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/svagish/algorithms/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/svagish/algorithms/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Indexed Tree
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/svagish/algorithms/tree/master/0064-minimum-path-sum) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/svagish/algorithms/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/svagish/algorithms/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3938-twisted-mirror-path-count](https://github.com/svagish/algorithms/tree/master/3938-twisted-mirror-path-count) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/svagish/algorithms/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Tree
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/svagish/algorithms/tree/master/0480-sliding-window-median) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/svagish/algorithms/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/svagish/algorithms/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
@@ -183,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/svagish/algorithms/tree/master/0480-sliding-window-median) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/svagish/algorithms/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Treap
 |  |
 | ------- |
