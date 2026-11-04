@@ -1,7 +1,7 @@
 class Solution {
     long INF = Long.MAX_VALUE / 4;
 
-    public long[] costSlidingWindow(int[] nums, int k) {      // CHANGED: returns long[]
+    public long[] costSlidingWindow(int[] nums, int k) {      
         TreeMap<Integer, Integer> left = new TreeMap<>();
         TreeMap<Integer, Integer> right = new TreeMap<>();
 
@@ -13,7 +13,7 @@ class Solution {
 
         int i = 0;
         int n = nums.length;
-        long[] ans = new long[n - k + 1];                     // CHANGED: long[]
+        long[] ans = new long[n - k + 1];                     
 
         for (int j = 0; j < n; j++) {
             int ele = nums[j];
@@ -35,7 +35,7 @@ class Solution {
                 int leftMax = leftEntry.getKey();
                 int rightMin = rightEntry.getKey();
 
-                if (leftMax > rightMin || leftCount < rightCount) { // CHANGED: was left.size() < right.size()
+                if (leftMax > rightMin || leftCount < rightCount) { 
                     if (leftEntry.getValue() == 1) left.remove(leftMax);
                     else left.put(leftMax, leftEntry.getValue() - 1);
                     leftSum -= leftMax;
@@ -53,8 +53,8 @@ class Solution {
             }
 
             if (j - i + 1 == k) {
-                int median = left.lastKey();                  // CHANGED: lower median is enough
-                ans[i] = ((long) median * leftCount - leftSum)        // CHANGED: long math
+                int median = left.lastKey();                  
+                ans[i] = ((long) median * leftCount - leftSum)        
                        + (rightSum - (long) median * rightCount);
 
                 if (left.containsKey(nums[i])) {
@@ -76,14 +76,13 @@ class Solution {
         return ans;
     }
 
-    // min cost to pick k non-overlapping windows, considering window starts i, i+1, ...
     public long rec(int i, int k, int x, long[] cost, long[][] memo) {
         if (k == 0) return 0;
         if (i >= cost.length) return INF;
         if (memo[i][k] != -1) return memo[i][k];
 
-        long skip = rec(i + 1, k, x, cost, memo);             // don't start a window at i
-        long pick = rec(i + x, k - 1, x, cost, memo);         // start one at i, jump past it
+        long skip = rec(i + 1, k, x, cost, memo);             
+        long pick = rec(i + x, k - 1, x, cost, memo);         
         if (pick != INF) pick += cost[i];
 
         return memo[i][k] = Math.min(skip, pick);
@@ -93,11 +92,6 @@ class Solution {
         long[] cost = costSlidingWindow(nums, x);
         long[][] memo = new long[cost.length][k + 1];
         for (long[] row : memo) Arrays.fill(row, -1);
-
-        // warm the memo from the right so rec never goes more than one level deep
-        for (int i = cost.length - 1; i >= 0; i--)
-            for (int c = 1; c <= k; c++)
-                rec(i, c, x, cost, memo);
 
         return rec(0, k, x, cost, memo);
     }
