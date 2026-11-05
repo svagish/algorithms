@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/svagish/algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/svagish/algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/svagish/algorithms/tree/master/0307-range-sum-query-mutable) |
 ## Prefix Sum
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/svagish/algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/svagish/algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/svagish/algorithms/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/svagish/algorithms/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/svagish/algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0480-sliding-window-median](https://github.com/svagish/algorithms/tree/master/0480-sliding-window-median) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/svagish/algorithms/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/svagish/algorithms/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -193,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/svagish/algorithms/tree/master/0480-sliding-window-median) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/svagish/algorithms/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/svagish/algorithms/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
