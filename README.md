@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/svagish/algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0480-sliding-window-median](https://github.com/svagish/algorithms/tree/master/0480-sliding-window-median) |
 | [1380-number-of-closed-islands](https://github.com/svagish/algorithms/tree/master/1380-number-of-closed-islands) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/svagish/algorithms/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/svagish/algorithms/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/svagish/algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/svagish/algorithms/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/svagish/algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/svagish/algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/svagish/algorithms/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/svagish/algorithms/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/svagish/algorithms/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4257-sum-of-sortable-integers](https://github.com/svagish/algorithms/tree/master/4257-sum-of-sortable-integers) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/svagish/algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/svagish/algorithms/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/svagish/algorithms/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/svagish/algorithms/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Memoization
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/svagish/algorithms/tree/master/0295-find-median-from-data-stream) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/svagish/algorithms/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Data Stream
 |  |
 | ------- |
