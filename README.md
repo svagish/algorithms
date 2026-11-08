@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/svagish/algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0480-sliding-window-median](https://github.com/svagish/algorithms/tree/master/0480-sliding-window-median) |
 | [1380-number-of-closed-islands](https://github.com/svagish/algorithms/tree/master/1380-number-of-closed-islands) |
+| [1396-count-servers-that-communicate](https://github.com/svagish/algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/svagish/algorithms/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/svagish/algorithms/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/svagish/algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/svagish/algorithms/tree/master/0130-surrounded-regions) |
 | [1380-number-of-closed-islands](https://github.com/svagish/algorithms/tree/master/1380-number-of-closed-islands) |
+| [1396-count-servers-that-communicate](https://github.com/svagish/algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/svagish/algorithms/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/svagish/algorithms/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/svagish/algorithms/tree/master/0130-surrounded-regions) |
 | [1380-number-of-closed-islands](https://github.com/svagish/algorithms/tree/master/1380-number-of-closed-islands) |
+| [1396-count-servers-that-communicate](https://github.com/svagish/algorithms/tree/master/1396-count-servers-that-communicate) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/svagish/algorithms/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [4209-palindromic-path-queries-in-a-tree](https://github.com/svagish/algorithms/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/svagish/algorithms/tree/master/0130-surrounded-regions) |
 | [1380-number-of-closed-islands](https://github.com/svagish/algorithms/tree/master/1380-number-of-closed-islands) |
+| [1396-count-servers-that-communicate](https://github.com/svagish/algorithms/tree/master/1396-count-servers-that-communicate) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/svagish/algorithms/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/svagish/algorithms/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/svagish/algorithms/tree/master/0130-surrounded-regions) |
 | [1380-number-of-closed-islands](https://github.com/svagish/algorithms/tree/master/1380-number-of-closed-islands) |
+| [1396-count-servers-that-communicate](https://github.com/svagish/algorithms/tree/master/1396-count-servers-that-communicate) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/svagish/algorithms/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3938-twisted-mirror-path-count](https://github.com/svagish/algorithms/tree/master/3938-twisted-mirror-path-count) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/svagish/algorithms/tree/master/4205-minimum-xor-path-in-a-grid) |
@@ -212,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/svagish/algorithms/tree/master/0295-find-median-from-data-stream) |
+## Counting
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/svagish/algorithms/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
