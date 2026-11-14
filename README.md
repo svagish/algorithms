@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-count-zero-request-servers](https://github.com/svagish/algorithms/tree/master/2833-count-zero-request-servers) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/svagish/algorithms/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/svagish/algorithms/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3644-minimum-positive-sum-subarray](https://github.com/svagish/algorithms/tree/master/3644-minimum-positive-sum-subarray) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/svagish/algorithms/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/svagish/algorithms/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/svagish/algorithms/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/svagish/algorithms/tree/master/0303-range-sum-query-immutable) |
+| [3644-minimum-positive-sum-subarray](https://github.com/svagish/algorithms/tree/master/3644-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0480-sliding-window-median](https://github.com/svagish/algorithms/tree/master/0480-sliding-window-median) |
 | [2833-count-zero-request-servers](https://github.com/svagish/algorithms/tree/master/2833-count-zero-request-servers) |
+| [3644-minimum-positive-sum-subarray](https://github.com/svagish/algorithms/tree/master/3644-minimum-positive-sum-subarray) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/svagish/algorithms/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Treap
 |  |
