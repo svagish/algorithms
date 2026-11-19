@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/svagish/algorithms/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/svagish/algorithms/tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4147-minimum-cost-to-acquire-required-items](https://github.com/svagish/algorithms/tree/master/4147-minimum-cost-to-acquire-required-items) |
 ## Array
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/svagish/algorithms/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/svagish/algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/svagish/algorithms/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/svagish/algorithms/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2833-count-zero-request-servers](https://github.com/svagish/algorithms/tree/master/2833-count-zero-request-servers) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/svagish/algorithms/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/svagish/algorithms/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/svagish/algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/svagish/algorithms/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/svagish/algorithms/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/svagish/algorithms/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2833-count-zero-request-servers](https://github.com/svagish/algorithms/tree/master/2833-count-zero-request-servers) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/svagish/algorithms/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4257-sum-of-sortable-integers](https://github.com/svagish/algorithms/tree/master/4257-sum-of-sortable-integers) |
