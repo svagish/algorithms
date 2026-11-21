@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/svagish/algorithms/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/svagish/algorithms/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/svagish/algorithms/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/svagish/algorithms/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3644-minimum-positive-sum-subarray](https://github.com/svagish/algorithms/tree/master/3644-minimum-positive-sum-subarray) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/svagish/algorithms/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/svagish/algorithms/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/svagish/algorithms/tree/master/0480-sliding-window-median) |
 | [2833-count-zero-request-servers](https://github.com/svagish/algorithms/tree/master/2833-count-zero-request-servers) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/svagish/algorithms/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/svagish/algorithms/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/svagish/algorithms/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/svagish/algorithms/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Indexed Tree
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/svagish/algorithms/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/svagish/algorithms/tree/master/3576-find-subtree-sizes-after-changes) |
 | [4209-palindromic-path-queries-in-a-tree](https://github.com/svagish/algorithms/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2496-count-days-spent-together](https://github.com/svagish/algorithms/tree/master/2496-count-days-spent-together) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/svagish/algorithms/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/svagish/algorithms/tree/master/3576-find-subtree-sizes-after-changes) |
 | [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/svagish/algorithms/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4209-palindromic-path-queries-in-a-tree](https://github.com/svagish/algorithms/tree/master/4209-palindromic-path-queries-in-a-tree) |
 | [4220-minimum-operations-to-sort-a-string](https://github.com/svagish/algorithms/tree/master/4220-minimum-operations-to-sort-a-string) |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/svagish/algorithms/tree/master/0130-surrounded-regions) |
 | [1380-number-of-closed-islands](https://github.com/svagish/algorithms/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/svagish/algorithms/tree/master/1396-count-servers-that-communicate) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/svagish/algorithms/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/svagish/algorithms/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [4209-palindromic-path-queries-in-a-tree](https://github.com/svagish/algorithms/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
