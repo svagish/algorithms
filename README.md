@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/svagish/algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/svagish/algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/svagish/algorithms/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/svagish/algorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/svagish/algorithms/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2496-count-days-spent-together](https://github.com/svagish/algorithms/tree/master/2496-count-days-spent-together) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/svagish/algorithms/tree/master/0480-sliding-window-median) |
 | [1380-number-of-closed-islands](https://github.com/svagish/algorithms/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/svagish/algorithms/tree/master/1396-count-servers-that-communicate) |
+| [1477-product-of-the-last-k-numbers](https://github.com/svagish/algorithms/tree/master/1477-product-of-the-last-k-numbers) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/svagish/algorithms/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/svagish/algorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/svagish/algorithms/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -86,10 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/svagish/algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/svagish/algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/svagish/algorithms/tree/master/0307-range-sum-query-mutable) |
+| [1477-product-of-the-last-k-numbers](https://github.com/svagish/algorithms/tree/master/1477-product-of-the-last-k-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/svagish/algorithms/tree/master/0303-range-sum-query-immutable) |
+| [1477-product-of-the-last-k-numbers](https://github.com/svagish/algorithms/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/svagish/algorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3644-minimum-positive-sum-subarray](https://github.com/svagish/algorithms/tree/master/3644-minimum-positive-sum-subarray) |
 ## Divide and Conquer
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/svagish/algorithms/tree/master/0295-find-median-from-data-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/svagish/algorithms/tree/master/1477-product-of-the-last-k-numbers) |
 ## Counting
 |  |
 | ------- |
