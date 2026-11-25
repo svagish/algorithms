@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3938-twisted-mirror-path-count](https://github.com/svagish/algorithms/tree/master/3938-twisted-mirror-path-count) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/svagish/algorithms/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4041-climbing-stairs-ii](https://github.com/svagish/algorithms/tree/master/4041-climbing-stairs-ii) |
+| [4105-smallest-unique-subarray](https://github.com/svagish/algorithms/tree/master/4105-smallest-unique-subarray) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/svagish/algorithms/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/svagish/algorithms/tree/master/4184-minimum-operations-to-sort-a-permutation) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/svagish/algorithms/tree/master/4205-minimum-xor-path-in-a-grid) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3576-find-subtree-sizes-after-changes](https://github.com/svagish/algorithms/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/svagish/algorithms/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/svagish/algorithms/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [4105-smallest-unique-subarray](https://github.com/svagish/algorithms/tree/master/4105-smallest-unique-subarray) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/svagish/algorithms/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/svagish/algorithms/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/svagish/algorithms/tree/master/2210-find-target-indices-after-sorting-array) |
+| [4105-smallest-unique-subarray](https://github.com/svagish/algorithms/tree/master/4105-smallest-unique-subarray) |
 ## Memoization
 |  |
 | ------- |
@@ -285,12 +288,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/svagish/algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthâMorrisâPratt Algorithm
+## KnuthÃ¢ÂÂMorrisÃ¢ÂÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/svagish/algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerâMoore String-Search Algorithm
+## BoyerÃ¢ÂÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/svagish/algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [4105-smallest-unique-subarray](https://github.com/svagish/algorithms/tree/master/4105-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [4105-smallest-unique-subarray](https://github.com/svagish/algorithms/tree/master/4105-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [4105-smallest-unique-subarray](https://github.com/svagish/algorithms/tree/master/4105-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
