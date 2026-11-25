@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/svagish/algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/svagish/algorithms/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2496-count-days-spent-together](https://github.com/svagish/algorithms/tree/master/2496-count-days-spent-together) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/svagish/algorithms/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/svagish/algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/svagish/algorithms/tree/master/0295-find-median-from-data-stream) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/svagish/algorithms/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Data Stream
@@ -275,4 +277,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/svagish/algorithms/tree/master/2106-find-greatest-common-divisor-of-array) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/svagish/algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/svagish/algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## KnuthâMorrisâPratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/svagish/algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## BoyerâMoore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/svagish/algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
