@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/svagish/algorithms/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/svagish/algorithms/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2496-count-days-spent-together](https://github.com/svagish/algorithms/tree/master/2496-count-days-spent-together) |
+| [3625-stone-removal-game](https://github.com/svagish/algorithms/tree/master/3625-stone-removal-game) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/svagish/algorithms/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/svagish/algorithms/tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/svagish/algorithms/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1710-find-servers-that-handled-most-number-of-requests](https://github.com/svagish/algorithms/tree/master/1710-find-servers-that-handled-most-number-of-requests) |
+| [3625-stone-removal-game](https://github.com/svagish/algorithms/tree/master/3625-stone-removal-game) |
 ## Ordered Set
 |  |
 | ------- |
@@ -288,11 +290,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/svagish/algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthÃ¢ÂÂMorrisÃ¢ÂÂPratt Algorithm
+## KnuthÃÂ¢ÃÂÃÂMorrisÃÂ¢ÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/svagish/algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃ¢ÂÂMoore String-Search Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/svagish/algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
