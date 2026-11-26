@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/svagish/algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1244-distinct-echo-substrings](https://github.com/svagish/algorithms/tree/master/1244-distinct-echo-substrings) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/svagish/algorithms/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2496-count-days-spent-together](https://github.com/svagish/algorithms/tree/master/2496-count-days-spent-together) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/svagish/algorithms/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -290,24 +291,39 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/svagish/algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthÃÂ¢ÃÂÃÂMorrisÃÂ¢ÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂ¢ÃÂÃÂÃÂÃÂMorrisÃÂÃÂ¢ÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/svagish/algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃÂ¢ÃÂÃÂMoore String-Search Algorithm
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/svagish/algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Rolling Hash
 |  |
 | ------- |
+| [1244-distinct-echo-substrings](https://github.com/svagish/algorithms/tree/master/1244-distinct-echo-substrings) |
 | [4105-smallest-unique-subarray](https://github.com/svagish/algorithms/tree/master/4105-smallest-unique-subarray) |
 ## Suffix Array
 |  |
 | ------- |
+| [1244-distinct-echo-substrings](https://github.com/svagish/algorithms/tree/master/1244-distinct-echo-substrings) |
 | [4105-smallest-unique-subarray](https://github.com/svagish/algorithms/tree/master/4105-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
+| [1244-distinct-echo-substrings](https://github.com/svagish/algorithms/tree/master/1244-distinct-echo-substrings) |
 | [4105-smallest-unique-subarray](https://github.com/svagish/algorithms/tree/master/4105-smallest-unique-subarray) |
+## Trie
+|  |
+| ------- |
+| [1244-distinct-echo-substrings](https://github.com/svagish/algorithms/tree/master/1244-distinct-echo-substrings) |
+## Suffix Automaton
+|  |
+| ------- |
+| [1244-distinct-echo-substrings](https://github.com/svagish/algorithms/tree/master/1244-distinct-echo-substrings) |
+## Suffix Tree
+|  |
+| ------- |
+| [1244-distinct-echo-substrings](https://github.com/svagish/algorithms/tree/master/1244-distinct-echo-substrings) |
 <!---LeetCode Topics End-->
